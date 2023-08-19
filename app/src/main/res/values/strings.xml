@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="mo">Welcome</string>
+    <string name="comment">comment</string>
+    <string name="like">👍</string>
+    <string name="share">share</string>
+    <string name="result">result</string>
+    <string name="search">search</string>
+    <string name="amount">amount</string>
+    <string name="with">with best wishes</string>
+</resources>
